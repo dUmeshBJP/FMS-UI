@@ -1,0 +1,65 @@
+.frame{
+    margin: 2%;
+}
+.pullRight{
+    text-align: right;
+}
+.pullUp{
+    margin-top: -6rem;
+}
+h5{
+    color: white;
+    font-size: 1.5rem;
+}
+small{
+    color: white;
+    font-size: 1em;
+}
+.cardShadow{
+    box-shadow: 2px 3px 7px #888888;
+}
+.cardText{
+    color: white;
+    font-size: 3rem;
+}
+.eventBody{
+    background: brown;
+}
+.eventFooter{
+    background: #660000;
+}
+.eventIcon{
+    font-size: 5rem;
+    color: #660000;
+}
+.userBody{
+    background: #ffb84d;
+}
+.userFooter{
+    background: #804d00;
+}
+.userIcon{
+    transform: rotate(90deg);
+    font-size: 5rem;
+    color: #804d00;
+}
+.volunteerBody{
+    background: purple;
+}
+.volunteerFooter{
+    background: #4d004d;
+}
+.volunteerIcon{
+    font-size: 5rem;
+    color: #4d004d;
+}
+.participantBody{
+    background: #2d5986;
+}
+.participantFooter{
+    background: #132639;
+}
+.participantIcon{
+    font-size: 5rem;
+    color: #132639;
+}

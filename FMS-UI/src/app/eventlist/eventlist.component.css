@@ -1,0 +1,14 @@
+.frame{
+    margin: 2%;
+}
+.backgroundHeader{
+    background-color:#000099;
+    color: white;
+}
+.emailIcon{
+    font-size: 5rem;
+    align-self: center;
+}
+.action{
+    margin: 1%;
+}

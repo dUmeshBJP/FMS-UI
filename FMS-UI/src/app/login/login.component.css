@@ -1,0 +1,24 @@
+.background{
+    margin-top: 5%;
+}
+.backgroundImage{
+    width: 100%;
+    height: 100%
+}
+.cognizant{
+    color: blue;
+    font-size: 2.25em;
+    font-style: bold;
+    font-weight: 500;
+}
+.outreach{
+    color: #80bfff;
+    font-size: 2em;
+    font-style: bold;
+    font-weight: 200;
+}
+.shakingHand{
+    transform: rotate(-45deg);
+    width: 10%;
+    height: 10%;
+}
